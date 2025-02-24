@@ -199,7 +199,7 @@ p.note { display: none; }
 <h2><span class="yellow">昨日からの工事が継続中</span></h2>
 <a href="20250223_025.JPG" target="_blank"><img src="20250223_025.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">誘導ミスなのか、重機が土を避けてる横を走行<br>避けた土が盛り上がってるのを左のタイヤで踏みながらの走行でタイヤがまっちゃっちゃ色に<br>日本ではあり得ないのですが、タイではこのレベルは日常茶飯事</span></h2>
+<h2><span class="yellow">誘導ミスなのか、重機が土を避けてる横を走行<br>避けた土が盛り上がってるのを左のタイヤで踏みながらの走行でタイヤがまっちゃっちゃに<br>日本ではあり得ないのですが、タイではこのレベルは日常茶飯事</span></h2>
 <a href="20250223_026.JPG" target="_blank"><img src="20250223_026.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">いつもの庭の水やりで虹つくり</span></h2>
