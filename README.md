@@ -122,7 +122,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/02/23、!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/02/23、扇風機修理して、プールの横でアスレチック!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -263,11 +263,11 @@ p.note { display: none; }
         <source src="https://torokoid.github.io/20250221_chiangrai/maitiya3.mp3" type="audio/mpeg">
         お使いのブラウザは audio タグをサポートしていません。
     </audio>
-<--
+-->
 
 
 <br><br><br>
-<h2><span class="yellow">以上、メタバースと無線で過ごした一日、最後はオレンジの夕焼けでした。<br>ここまでご覧いただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、扇風機修理してプールの横でアスレチック、最後はむらさき色の夕焼けでした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
