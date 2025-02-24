@@ -158,7 +158,7 @@ p.note { display: none; }
 <h2><span class="yellow">バネの受け部にボルトのスペーサー接着してバネの反発力アップ</span></h2>
 <a href="20250223_010.JPG" target="_blank"><img src="20250223_010.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">プロパンガスが無くなったので、ボンベをガス屋さんに持ち込んでガス充填</span></h2>
+<h2><span class="yellow">プロパンガスが無くなったので、ボンベをガス屋さんに持ち込んでガス充填<br>ボンベはガスコンロの直下に収納されています</span></h2>
 <a href="20250223_011.JPG" target="_blank"><img src="20250223_011.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">午後はいつものプール、入り口のお花が開き始めています</span></h2>
