@@ -184,7 +184,7 @@ p.note { display: none; }
 <h2><span class="yellow">腹筋マシンで久々に腹筋してるところをパチリ！</span></h2>
 <a href="20250223_020.JPG" target="_blank"><img src="20250223_020.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">人汗かいてからいつものショッピングモール<br>衣装のそろったお姉様たち・・・同一部族との主張かも</span></h2>
+<h2><span class="yellow">ひと汗かいてからいつものショッピングモール<br>衣装のそろったお姉様たち、5人ほどいました・・・同一部族との主張かも</span></h2>
 <a href="20250223_021.JPG" target="_blank"><img src="20250223_021.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">家電コーナーで扇風機の首の部分をチェック</span></h2>
